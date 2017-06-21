@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                             aisatsu = "こんばんは";
                         } else if (num >= 10) {
                             aisatsu = "こんにちは";
-                        } else if (num >= 10) {
+                        } else if (num >= 2) {
                             aisatsu = "おはよう";
                         } else {
                             aisatsu = "こんばんは";
