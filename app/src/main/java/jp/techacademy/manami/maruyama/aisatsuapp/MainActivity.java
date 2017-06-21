@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     TextView mTextView;
     int jikan = 25 ;
-    String aisatsu ="";
+    String aisatsu ="時間を設定してください";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
